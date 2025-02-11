@@ -1,4 +1,4 @@
-# Workouts_2023_Personal_Project
+# Workouts 2023 Personal Project
 ##### Author: Kevin Leung
 ##### Date: 2024/01/25
 #
