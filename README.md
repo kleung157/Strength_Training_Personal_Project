@@ -6,7 +6,7 @@
 ##### - Ask (Description)
 ##### - [Preparation and Processing](https://github.com/kleung157/Workouts_2023_Personal_Project/blob/d1622638481ffd651c763dcd5387e850b1186a07/workouts_data_preparation_processing)
 ##### - [Analysis](https://github.com/kleung157/Workouts_2023_Personal_Project/blob/d1622638481ffd651c763dcd5387e850b1186a07/workouts_data_analysis)
-##### - [Share](https://github.com/kleung157/Workouts_2023_Personal_Project/blob/d1622638481ffd651c763dcd5387e850b1186a07/workouts_data_share_of_observations.docx)
+##### - [Share](https://github.com/kleung157/Workouts_2023_Personal_Project/blob/d100bd19e94f91ae1949a573f0f853c5ec04d982/workouts_data_share_of_observations.txt)
 ##### - Act (Recommendations)
 #
 ##### Description
