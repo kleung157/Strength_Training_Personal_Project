@@ -1,6 +1,6 @@
 #
 
-# Workouts 2023 Personal Project
+# Strength Training 2023 Personal Project
 
 **Author:** Kevin Leung
 
