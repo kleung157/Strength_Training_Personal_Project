@@ -26,7 +26,7 @@
 
 **Background:**
 
-Starting in 2010, I routinely tracked my workouts on my phone and created quarterly (9-week) training programs through inputting the logs into Excel worksheets. I went through a range of preset programs such as Madcow, Stronglifts, Starting Strength, RPE, etc. then decided to incorporate different set and repetition schemes (3x3, 3x5, 3x8, 5x5, etc.) that best fit my body type and powerlifting goals. 
+Starting in 2010, I routinely tracked my workouts and created quarterly (9-week) training programs through inputting the logs into Excel worksheets. I went through a range of preset programs such as Madcow, Stronglifts, Starting Strength, RPE, etc. then decided to incorporate different set and repetition schemes (3x3, 3x5, 3x8, 5x5, etc.) that best fit my body type and powerlifting goals. 
 
 
 **Task:**
