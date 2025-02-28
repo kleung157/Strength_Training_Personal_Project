@@ -198,8 +198,8 @@ Implementation of an rate of percieved exertion (RPE) scale for each session to 
 
 Be more detailed on tracking comments and personal feedback of each session to more accurately determine variables affecting workouts.
 
-Predicting a future one repeition maximum (1RM) is not the goal because it can lead to injuries from ego lifting to chaes numbers. Use 80-90% as a 1RM and do more consistent training at a load of 50-70%. 
+Predicting a future one repeition maximum (1RM) is not the goal because it can lead to injuries from ego lifting to chasing numbers. Use 80-90% as a 1RM and do more consistent training at a load of 50-70%. 
 
-Incorporate different set and repetition schemes such as 3x3, 3x5, or 3x8 at varying RPE percentages. 
+Incorporate different volume, set and repetition schemes such as 3x3, 5x5, 3x5, 5x3, etc. at varying RPE percentages. 
 
 Continue to focus on the breathing and form of the exercise at hand. 
