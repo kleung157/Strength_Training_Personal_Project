@@ -194,12 +194,12 @@ Which body category was the most and least targeted?
 
 **Recommendations:**
 
-Implement RPE scale?
+Implementation of an rate of percieved exertion (RPE) scale for each session to decide whether or not to increase or decrease weight.
 
-Track comments/feedback of the day’s workout?
+Be more detailed on tracking comments and personal feedback of each session to more accurately determine variables affecting workouts.
 
-Predicting future 1RM?
+Predicting a future one repeition maximum (1RM) is not the goal because it can lead to injuries from ego lifting to chaes numbers. Use 80-90% as a 1RM and do more consistent training at a load of 50-70%. 
 
-No PRs for this year, got back to previous 1RMs.
+Incorporate different set and repetition schemes such as 3x3, 3x5, or 3x8 at varying RPE percentages. 
 
-Optimal Workload? 3x3, 3x5, or 3x8 at 60-70%
+Continue to focus on the breathing and form of the exercise at hand. 
