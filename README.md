@@ -2,6 +2,8 @@
 
 # Strength Training 2023 Personal Project
 
+![Weightlifting](./Weightlifting.png)
+
 **Author:** Kevin Leung
 
 **Date:**  2024/01/25
