@@ -190,7 +190,7 @@ Which body category was the most and least targeted?
 
 **Dashboard:**
 
-![Image](https://github.com/user-attachments/assets/f96dafa5-dca7-4ef3-86c2-da481d5c603c)
+![Image](https://github.com/kleung157/Strength_Training_Personal_Project/blob/3c64229d884f9776ae12ec273c99e1a30745617d/workout_dashboard.png)
 
 #
 
