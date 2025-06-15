@@ -48,14 +48,14 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 46,1/27/2023,10009,3,8,90,100,0,100004,skipped
 47,1/27/2023,10010,3,8,50,50,0,100004,skipped
 48,1/31/2023,10000,3,5,115,130,20,100005,easier with flat shoes than squat shoes
-49,1/31/2023,10001,3,3,275,315,40,100005, take a deep breath then cock legs with brace
+49,1/31/2023,10001,3,3,275,315,40,100005,Â take a deep breath then cock legs with brace
 50,1/31/2023,10005,3,8,70,70,10,100005,
 51,1/31/2023,10006,3,8,120,120,10,100005,
 52,2/3/2023,10002,3,3,275,325,30,100005,
 53,2/3/2023,10011,3,8,50,50,0,100005,skipped
 54,2/3/2023,10012,3,8,40,40,0,100005,skipped
 55,2/3/2023,10013,3,8,120,120,0,100005,skipped
-56,2/3/2023,10003,3,3,225,225,30,100005,"narrow stance don’t point out feet too much, Look straight, keep upright, make sure to lower down twice and use stretch reflex to get back up"
+56,2/3/2023,10003,3,3,225,225,30,100005,"narrow stance donâ€™t point out feet too much, Look straight, keep upright, make sure to lower down twice and use stretch reflex to get back up"
 57,2/3/2023,10004,3,5,185,195,20,100005,
 58,2/3/2023,10009,3,8,90,100,10,100005,
 59,2/3/2023,10010,3,8,50,50,10,100005,
@@ -95,7 +95,7 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 93,2/23/2023,10001,3,3,275,345,40,100008,"Huge breath, brace from top down, in same breathe pull slack first then pull"
 94,2/23/2023,10005,3,8,70,70,10,100008,
 95,2/23/2023,10006,3,8,120,120,10,100008,
-96,2/28/2023,10002,3,3,275,355,45,100009,"Resetting after each rep, need to brace and breathe more; Couldn’t get 355, leverages feel off today"
+96,2/28/2023,10002,3,3,275,355,45,100009,"Resetting after each rep, need to brace and breathe more; Couldnâ€™t get 355, leverages feel off today"
 97,2/28/2023,10011,3,8,50,50,10,100009,
 98,2/28/2023,10012,3,8,40,40,10,100009,
 99,2/28/2023,10013,3,8,120,120,10,100009,
@@ -107,7 +107,7 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 105,3/3/2023,10004,3,5,185,185,25,100009,
 106,3/3/2023,10007,3,5,375,375,15,100009,
 107,3/3/2023,10008,3,8,50,60,10,100009,
-108,3/7/2023,10002,3,3,275,345,45,100010,tried to do deadlift panda technique but doesn’t have enough slack pull with double overhand hook
+108,3/7/2023,10002,3,3,275,345,45,100010,tried to do deadlift panda technique but doesnâ€™t have enough slack pull with double overhand hook
 109,3/7/2023,10011,3,8,50,50,10,100010,
 110,3/7/2023,10012,3,8,40,40,10,100010,
 111,3/7/2023,10013,3,8,120,120,10,100010,
@@ -125,17 +125,17 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 123,3/14/2023,10013,3,8,120,120,10,100011,
 124,3/16/2023,10001,3,3,315,385,45,100011,
 125,3/16/2023,10005,3,8,75,75,10,100011,
-126,3/16/2023,10006,3,5,120,120,10,100011,"switched to pull ups, 3x5 2 sets wide; 1 set narrow; Did breathing technique while pulling up which helped but don’t have a great grip overall for hanging"
+126,3/16/2023,10006,3,5,120,120,10,100011,"switched to pull ups, 3x5 2 sets wide; 1 set narrow; Did breathing technique while pulling up which helped but donâ€™t have a great grip overall for hanging"
 127,3/17/2023,10000,3,5,115,115,20,100011,"brought wrong shoes, flat instead of squat, leaned more forward for starting position"
 128,3/17/2023,10003,3,3,225,225,30,100011,
 129,3/17/2023,10004,3,5,185,185,20,100011,
 130,3/17/2023,10007,3,5,385,385,25,100011,
 131,3/17/2023,10008,3,8,60,60,10,100011,
-132,3/21/2023,10002,3,3,315,365,45,100012,"Setup per normal, pull slack without jerking, then angle our feet, don’t move bar then hang over bar make sure arms are tight, then deep breath, pull slack within that breathe no jerking and then push off floor with cock legs. Tie up shoes tighter closer to heel of shoe"
+132,3/21/2023,10002,3,3,315,365,45,100012,"Setup per normal, pull slack without jerking, then angle our feet, donâ€™t move bar then hang over bar make sure arms are tight, then deep breath, pull slack within that breathe no jerking and then push off floor with cock legs. Tie up shoes tighter closer to heel of shoe"
 133,3/21/2023,10011,3,8,50,60,10,100012,
 134,3/21/2023,10012,3,8,40,40,10,100012,
 135,3/21/2023,10013,3,8,120,120,10,100012,
-136,3/23/2023,10001,3,3,315,395,45,100012,"left part of bar uneven, left shoulder compensated more than usual, 395, small struggle a bit, didn’t pull enough slack. Didn’t try to warm up correctly skipped from 135 to 225. Thumb not in great position. Back had to take a bit of a hit. Rush of time because car wash took longer than expected"
+136,3/23/2023,10001,3,3,315,395,45,100012,"left part of bar uneven, left shoulder compensated more than usual, 395, small struggle a bit, didnâ€™t pull enough slack. Didnâ€™t try to warm up correctly skipped from 135 to 225. Thumb not in great position. Back had to take a bit of a hit. Rush of time because car wash took longer than expected"
 137,3/23/2023,10005,3,8,70,70,10,100012,
 138,3/23/2023,10006,3,8,120,120,10,100012,
 139,3/25/2023,10000,3,5,115,115,25,100012,narrower grip
@@ -152,52 +152,52 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 150,3/29/2023,10004,3,5,185,185,25,100013,"narrower grip, middle finger on smooth knurlling, wider stance"
 151,3/29/2023,10007,3,5,395,395,25,100013,
 152,3/29/2023,10008,3,8,65,65,10,100013,
-153,3/30/2023,10001,3,3,315,405,60,100013,"can’t keep tightness and bar straight for proper leg drive. Possibly fatigued from last 2 days doing hook grip for conventional(375) and shoulder shrug (405). Needed to be more patient with getting proper position, then proper full breath, tightness, pull full slack out twice in same breath and leg drive. Hit 405 after getting correct positioning, not that bad overall no pain"
+153,3/30/2023,10001,3,3,315,405,60,100013,"canâ€™t keep tightness and bar straight for proper leg drive. Possibly fatigued from last 2 days doing hook grip for conventional(375) and shoulder shrug (405). Needed to be more patient with getting proper position, then proper full breath, tightness, pull full slack out twice in same breath and leg drive. Hit 405 after getting correct positioning, not that bad overall no pain"
 154,3/30/2023,10005,3,8,70,70,10,100013,
 155,3/30/2023,10006,3,8,120,120,10,100013,
 156,4/3/2023,10002,3,3,315,385,45,100014,
 157,4/3/2023,10011,3,8,55,60,10,100014,
 158,4/3/2023,10012,3,8,40,40,10,100014,
 159,4/3/2023,10013,3,8,120,120,10,100014,
-160,4/5/2023,10000,3,3,115,130,25,100014,tweaked cervical  c1-c2 doing ohp warm ups
+160,4/5/2023,10000,3,3,115,130,25,100014,tweaked cervicalÂ  c1-c2 doing ohp warm ups
 161,4/5/2023,10003,5,3,225,225,35,100014,"measure our thumb to smooth part, move out thumb a bit from there, make sure elbows are even; right elbow tends to be more back rather than forward. Feel imbalance and left arm not being in same way as right leading to some twisting and imbalance on descent. Possibly why left glute feels weird lately"
-162,4/5/2023,10004,3,5,185,195,25,100014,"can’t find great positioning. wider stance beyond shoulders, point feet 45 angle, when setting up make sure to keep most of breathe and tightness before making arch, breathe again slightly to setup for descent. Make sure glutes aren’t flat on bench, slightly off but still touching"
+162,4/5/2023,10004,3,5,185,195,25,100014,"canâ€™t find great positioning. wider stance beyond shoulders, point feet 45 angle, when setting up make sure to keep most of breathe and tightness before making arch, breathe again slightly to setup for descent. Make sure glutes arenâ€™t flat on bench, slightly off but still touching"
 163,4/5/2023,10009,3,8,100,100,10,100014,
 164,4/5/2023,10010,3,8,60,60,10,100014,
-165,4/6/2023,10001,3,3,315,395,60,100014,395 used too much energy and didn’t pull slack enough with leg drive so back took a bit of the hit. Was able to get the bar off the floor maybe an inch or two with 415 so it’s possible
+165,4/6/2023,10001,3,3,315,395,60,100014,395 used too much energy and didnâ€™t pull slack enough with leg drive so back took a bit of the hit. Was able to get the bar off the floor maybe an inch or two with 415 so itâ€™s possible
 166,4/6/2023,10005,3,8,70,70,10,100014,
 167,4/6/2023,10006,3,8,120,120,10,100014,
-168,4/11/2023,10002,3,5,275,315,45,200015,"rushed worked out, need to warm up properly and be tighter, breathing was off and couldn’t pull slack efficiently where leg drive was evident"
+168,4/11/2023,10002,3,5,275,315,45,200015,"rushed worked out, need to warm up properly and be tighter, breathing was off and couldnâ€™t pull slack efficiently where leg drive was evident"
 169,4/11/2023,10011,3,8,55,60,10,200015,
 170,4/11/2023,10012,3,8,40,40,10,200015,
 171,4/11/2023,10013,3,8,120,120,10,200015,
 172,4/12/2023,10000,3,5,115,125,25,200015,
 173,4/12/2023,10003,3,3,225,225,30,200015,"Position thumb to top part of bar, make sure shoulders are a bit raised and tight and bring chest to bar, from there angle feet out keep elbows close then take deep breath to grip underneath bar. When under bar, setup angles out feet, fix head position looking up, deep breathe, keep elbows close and squeeze abdominals down, once descent to bottom, descent again lower then push off"
-174,4/12/2023,10004,3,5,185,195,25,200015,"wider stance point feet 45 angle, make sure inner legs and heel is engaged, keep within same breath and don’t leave butt on too much of bench. Started bench first because squat bar not open"
+174,4/12/2023,10004,3,5,185,195,25,200015,"wider stance point feet 45 angle, make sure inner legs and heel is engaged, keep within same breath and donâ€™t leave butt on too much of bench. Started bench first because squat bar not open"
 175,4/12/2023,10007,3,5,405,405,25,200015,
 176,4/12/2023,10008,3,8,70,70,10,200015,
-177,4/13/2023,10001,3,3,315,395,60,200015,"395, misses first rep because of positioning and not using enough leg drive. 415, got off ground but positioning is off and not getting full breathe and tightness: second attempt couldn’t get great slack pull"
+177,4/13/2023,10001,3,3,315,395,60,200015,"395, misses first rep because of positioning and not using enough leg drive. 415, got off ground but positioning is off and not getting full breathe and tightness: second attempt couldnâ€™t get great slack pull"
 178,4/13/2023,10005,3,8,70,70,10,200015,
 179,4/13/2023,10006,3,8,120,140,10,200015,
-180,4/18/2023,10002,3,3,275,315,45,300016,"can’t get the right positioning, lowering the weight for now so don’t injure self. Need to make sure pull slack all the way before lifting bar off with leg cocking. For lifting straps, get in regular positioning then make sure to get right tightness then take a deep breath tighten elbows and abdominals pushing down, pull slack all the way then cock legs. Focusing on pushing off floor and getting tightness correct then slowly setting the weight down"
+180,4/18/2023,10002,3,3,275,315,45,300016,"canâ€™t get the right positioning, lowering the weight for now so donâ€™t injure self. Need to make sure pull slack all the way before lifting bar off with leg cocking. For lifting straps, get in regular positioning then make sure to get right tightness then take a deep breath tighten elbows and abdominals pushing down, pull slack all the way then cock legs. Focusing on pushing off floor and getting tightness correct then slowly setting the weight down"
 181,4/18/2023,10011,3,8,55,60,10,300016,
 182,4/18/2023,10012,3,8,40,40,10,300016,
 183,4/18/2023,10013,3,8,120,120,10,300016,
 184,4/20/2023,10000,3,5,125,130,25,300016,"took a deep breath for 130, remained tight but right side of oblique acted up a bit, may need to belt up"
-185,4/20/2023,10003,3,3,225,225,30,300016,"really don’t think wider stance helps since I have cave in issues, stick to narrow"
+185,4/20/2023,10003,3,3,225,225,30,300016,"really donâ€™t think wider stance helps since I have cave in issues, stick to narrow"
 186,4/20/2023,10004,3,3,200,205,25,300016,"tried out bands, works pretty well and chalking up helps for the working sets"
 187,4/20/2023,10009,3,8,60,60,10,300016,
 188,4/20/2023,10010,3,8,100,100,10,300016,
 189,4/20/2023,10001,3,3,315,375,45,300016,failed (405)
 190,4/20/2023,10005,3,8,70,70,10,300016,
 191,4/20/2023,10006,3,8,120,120,10,300016,
-192,4/25/2023,10002,3,3,315,365,45,400017,"narrower stance, more forward lean then have arms close to legs,  breathe deep, brace, grip,and push off back. Tighten belt all the way"
+192,4/25/2023,10002,3,3,315,365,45,400017,"narrower stance, more forward lean then have arms close to legs,Â  breathe deep, brace, grip,and push off back. Tighten belt all the way"
 193,4/25/2023,10011,3,8,55,60,10,400017,
 194,4/25/2023,10012,3,8,40,40,10,400017,
 195,4/25/2023,10013,3,8,120,120,10,400017,
 196,4/27/2023,10000,3,5,125,135,30,400017,"chalked up, pushed slack off, kept feet to together and huge breath"
-197,4/27/2023,10003,3,5,225,225,30,400017,"place thumbs horizontal middle of knurling, upper part rather than middle vertical  , adjust tightness on shoulders then position chest close to bar, deep breath, close stance narrow similar to conventional. Speed was greater when narrower stance"
-198,4/27/2023,10004,3,5,185,210,25,400017,"couldn’t get proper grip for 210, hands probably taxed from deadlift and ohp, even with chalk also uses flat shoes"
+197,4/27/2023,10003,3,5,225,225,30,400017,"place thumbs horizontal middle of knurling, upper part rather than middle verticalÂ  , adjust tightness on shoulders then position chest close to bar, deep breath, close stance narrow similar to conventional. Speed was greater when narrower stance"
+198,4/27/2023,10004,3,5,185,210,25,400017,"couldnâ€™t get proper grip for 210, hands probably taxed from deadlift and ohp, even with chalk also uses flat shoes"
 199,4/27/2023,10008,3,8,70,70,0,400017,skipped
 200,4/27/2023,10010,3,8,100,100,0,400017,skipped
 201,4/27/2023,10001,3,3,315,390,45,400017,"Bit taxed from squats and shoulders, Perhaps leaned too forward for sumo, try to be more upright?"
@@ -219,9 +219,9 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 217,5/9/2023,10011,3,8,55,65,0,600019,skipped
 218,5/9/2023,10012,3,8,40,40,0,600019,skipped
 219,5/9/2023,10013,3,8,120,120,0,600019,skipped
-220,5/10/2023,10000,3,4,125,125,25,600019,"Keep tightness, use leg drive, don’t narrow grip too much"
+220,5/10/2023,10000,3,4,125,125,25,600019,"Keep tightness, use leg drive, donâ€™t narrow grip too much"
 221,5/10/2023,10003,3,5,225,225,30,600019,"narrow foot stance, every rep make sure to adjust weight over foot and feet are reset for pointing out"
-222,5/10/2023,10004,3,3,185,195,25,600019,can’t find good positioning
+222,5/10/2023,10004,3,3,185,195,25,600019,canâ€™t find good positioning
 223,5/10/2023,10007,3,5,315,365,25,600019,
 224,5/10/2023,10008,3,8,70,70,10,600019,
 225,5/11/2023,10001,5,2,315,315,45,600019,"feet placement between outer ring and inner smooth grip. Secure strap on bar, have shoulders tightened beforehand and then take deep breath at a angle where leg drive is possible"
@@ -236,7 +236,7 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 234,5/17/2023,10004,3,5,185,225,30,700020,Not too narrow in positioning but keep feet vertical with slight angle
 235,5/17/2023,10009,3,8,100,100,10,700020,deep breathe before getting on
 236,5/17/2023,10010,3,8,70,70,10,700020,
-237,5/18/2023,10001,3,3,315,365,50,700020,395 failed (x3) perhaps don’t move bar?
+237,5/18/2023,10001,3,3,315,365,50,700020,395 failed (x3) perhaps donâ€™t move bar?
 238,5/18/2023,10005,3,8,70,70,10,700020,
 239,5/18/2023,10006,3,8,120,120,0,700020,skipped - did pull ups 3x5
 240,5/23/2023,10002,3,3,315,365,0,800021,skipped - Alex wedding
@@ -258,7 +258,7 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 256,6/2/2023,10000,3,5,115,135,30,900022,
 257,6/2/2023,10003,3,5,225,275,30,900022,
 258,6/2/2023,10004,3,5,185,210,25,900022,
-259,6/2/2023,10007,3,8,315,315,20,900022, straps
+259,6/2/2023,10007,3,8,315,315,20,900022,Â straps
 260,6/2/2023,10008,3,8,70,70,10,900022,
 261,6/3/2023,10001,3,3,315,365,45,900022,
 262,6/3/2023,10005,3,8,120,120,10,900022,
@@ -351,11 +351,11 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 349,7/25/2023,10011,3,8,55,60,10,1700030,
 350,7/25/2023,10012,3,8,40,40,10,1700030,
 351,7/25/2023,10013,3,8,120,120,10,1700030,
-352,7/27/2023,10001,3,3,315,315,45,1700030,Sumo 315(1) 365(missed) 315(3). Couldn’t get in position for 365
+352,7/27/2023,10001,3,3,315,315,45,1700030,Sumo 315(1) 365(missed) 315(3). Couldnâ€™t get in position for 365
 353,7/27/2023,10006,3,8,120,120,10,1700030,
 354,7/27/2023,10014,3,8,75,75,10,1700030,
 355,7/28/2023,10000,3,5,115,125,30,1700030,
-356,7/28/2023,10003,3,3,225,225,30,1700030,don’t look up when descending
+356,7/28/2023,10003,3,3,225,225,30,1700030,donâ€™t look up when descending
 357,7/28/2023,10004,3,5,185,215,30,1700030,
 358,7/28/2023,10009,3,8,60,60,0,1700030,skipped
 359,7/28/2023,10010,3,5,100,100,10,1700030,
@@ -389,7 +389,7 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 387,8/15/2023,10013,3,8,120,120,10,2000033,slow controlled for tricep
 388,8/17/2023,10000,3,3,125,125,30,2000033,
 389,8/17/2023,10003,3,3,225,275,35,2000033,"85% at 275, no belt or sleeves, slight inward leg knee valgus"
-390,8/17/2023,10004,3,3,205,205,30,2000033,"back to pointer finger on smooth grip, use chalk and also spread out legs more. Setup feet standing then point out shoes, don’t move butt up until under bar"
+390,8/17/2023,10004,3,3,205,205,30,2000033,"back to pointer finger on smooth grip, use chalk and also spread out legs more. Setup feet standing then point out shoes, donâ€™t move butt up until under bar"
 391,8/17/2023,10009,3,8,60,60,0,2000033,skipped
 392,8/17/2023,10010,3,8,100,100,10,2000033,
 393,8/18/2023,10001,3,3,315,315,45,2000033,
@@ -401,7 +401,7 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 399,8/22/2023,10013,3,8,120,120,10,2100034,Dips 3x6 (6 5 5)
 400,8/25/2023,10000,3,5,115,115,30,2100034,neck still feels tweaked from earlier this week takkkg it easy on weight
 401,8/25/2023,10003,3,3,225,225,30,2100034,right side of neck and upper trap tough to put bar on
-402,8/25/2023,10004,3,5,185,185,25,2100034,fatigue from work. an’t get good positioning and palms aren’t gripping well
+402,8/25/2023,10004,3,5,185,185,25,2100034,fatigue from work. anâ€™t get good positioning and palms arenâ€™t gripping well
 403,8/25/2023,10007,3,5,315,315,0,2100034,skipped
 404,8/25/2023,10008,3,8,70,70,10,2100034,
 405,8/25/2023,10001,3,3,315,315,45,2100034,
@@ -416,7 +416,7 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 414,8/30/2023,10013,3,6,150,150,10,2200035,
 415,9/1/2023,10000,3,5,115,115,30,2200035,workout after work. neck still feels tweaked from earlier this week takkkg it easy on weight
 416,9/1/2023,10003,3,3,225,225,30,2200035,right side of neck and upper trap tough to put bar on
-417,9/1/2023,10004,3,5,185,185,25,2200035,fatigue from work. can’t get good positioning and palms aren’t gripping well
+417,9/1/2023,10004,3,5,185,185,25,2200035,fatigue from work. canâ€™t get good positioning and palms arenâ€™t gripping well
 418,9/1/2023,10009,3,8,60,60,10,2200035,
 419,9/1/2023,10010,3,8,100,100,0,2200035,skipped
 420,9/6/2023,10002,3,3,315,315,45,2300036,
@@ -440,7 +440,7 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 438,9/13/2023,10014,3,8,95,95,10,2400037,
 439,9/14/2023,10000,3,5,115,115,25,2400037,
 440,9/14/2023,10003,3,5,225,225,30,2400037,
-441,9/14/2023,10004,3,5,185,185,25,2400037,"setup feet standing wider stance, point out  feet, sit then move forward, point out feet. Grip bar push off then adjust butt down to bench. Bring bar a bit lower down chest. Trying to regain breath pattern and bracing "
+441,9/14/2023,10004,3,5,185,185,25,2400037,"setup feet standing wider stance, point outÂ  feet, sit then move forward, point out feet. Grip bar push off then adjust butt down to bench. Bring bar a bit lower down chest. Trying to regain breath pattern and bracing "
 442,9/14/2023,10007,3,5,315,315,20,2400037,"easing back in, upper traps are burning a bit"
 443,9/14/2023,10008,3,8,70,70,0,2400037,skipped
 444,9/19/2023,10002,3,3,315,315,45,2500038,"tired, body feels a bit fatigued. grip half knurling and half smooth"
@@ -467,7 +467,7 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 465,9/28/2023,10004,3,5,185,185,0,2600039,skipped
 466,9/28/2023,10007,3,5,315,315,0,2600039,skipped
 467,9/28/2023,10008,3,8,70,70,0,2600039,skipped
-468,10/4/2023,10002,3,3,315,315,45,2700040,RPE 9. feeling fatigued from work weekend and also didn’t go to crunch last week
+468,10/4/2023,10002,3,3,315,315,45,2700040,RPE 9. feeling fatigued from work weekend and also didnâ€™t go to crunch last week
 469,10/4/2023,10011,3,8,60,70,10,2700040,
 470,10/4/2023,10012,3,8,40,40,10,2700040,
 471,10/4/2023,10013,3,8,120,120,10,2700040,
@@ -495,7 +495,7 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 493,10/17/2023,10011,3,8,60,65,10,2900042,
 494,10/17/2023,10012,3,8,40,40,10,2900042,
 495,10/17/2023,10013,3,8,150,150,10,2900042,
-496,10/18/2023,10000,3,5,115,115,30,2900042,alternate 3x3 5lb increase (2x2.5lb)  between ohp and bench
+496,10/18/2023,10000,3,5,115,115,30,2900042,alternate 3x3 5lb increase (2x2.5lb)Â  between ohp and bench
 497,10/18/2023,10003,3,3,225,230,30,2900042,
 498,10/18/2023,10004,3,3,185,205,25,2900042,"put feet at 45, move butt up to bench, adjust feet to horizontal 90 test leg drive then adjust elbow and breath. Lower under bar then sway lats to make sure grip is tight with arch. Continue 3x3 increase to 210 next week"
 499,10/18/2023,10007,3,5,315,315,20,2900042,
@@ -503,7 +503,7 @@ Workout_ID,Date,Exercise_ID,Sets,Repetitions,Lowest_Weight,Highest_Weight,Time_S
 501,10/19/2023,10001,3,3,315,390,45,2900042,"setup as old method, make sure legs are engaged and body above the bar but almost perpendicular while having leg drive. Not bad in terms of tightened and leverages. Used chalk and belt for last set"
 502,10/19/2023,10006,3,8,110,110,10,2900042,
 503,10/19/2023,10014,3,8,95,95,10,2900042,
-504,10/24/2023,10002,3,3,315,315,45,3000043,"have feet not so close together, don’t extend feet to 45 degrees, more 15 degrees and also keep bar close with shoulders and elbow right to align over bar"
+504,10/24/2023,10002,3,3,315,315,45,3000043,"have feet not so close together, donâ€™t extend feet to 45 degrees, more 15 degrees and also keep bar close with shoulders and elbow right to align over bar"
 505,10/24/2023,10011,3,8,55,60,10,3000043,
 506,10/24/2023,10012,3,8,40,40,10,3000043,
 507,10/24/2023,10013,3,8,120,120,10,3000043,
