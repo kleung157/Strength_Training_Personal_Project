@@ -4,7 +4,7 @@
 
 ## How To Improve Fitness Outcomes
 
-![Weightlifting](./Weightlifting.png)
+![Weightlifting](./images/Weightlifting.png)
 
 **Author:** Kevin Leung
 
@@ -41,7 +41,7 @@ Analyzing personal raw exercise data from 2023-2024 to discover insights for a f
 
 ## 2. Prepare
 
-[Document](https://github.com/kleung157/Workouts_2023_Personal_Project/blob/d1622638481ffd651c763dcd5387e850b1186a07/workouts_data_preparation_processing)
+[Document](https://github.com/kleung157/Strength_Training_Personal_Project/blob/392570e165209392cfd02c263184ef5fcc5a1251/documents/workouts_data_preparation_processing)
 
 (See document for details.)
 
@@ -49,7 +49,7 @@ Analyzing personal raw exercise data from 2023-2024 to discover insights for a f
 
 ## 3. Process
 
-[Document](https://github.com/kleung157/Workouts_2023_Personal_Project/blob/d1622638481ffd651c763dcd5387e850b1186a07/workouts_data_preparation_processing)
+[Document](https://github.com/kleung157/Strength_Training_Personal_Project/blob/392570e165209392cfd02c263184ef5fcc5a1251/documents/workouts_data_preparation_processing)
 
 (See document for details.)
 
@@ -57,7 +57,7 @@ Analyzing personal raw exercise data from 2023-2024 to discover insights for a f
 
 ## 4. Analyze
 
-[Document](https://github.com/kleung157/Workouts_2023_Personal_Project/blob/d1622638481ffd651c763dcd5387e850b1186a07/workouts_data_analysis)
+[Document](https://github.com/kleung157/Strength_Training_Personal_Project/blob/392570e165209392cfd02c263184ef5fcc5a1251/documents/workouts_data_analysis)
 
 (See document for details.)
 
@@ -190,7 +190,7 @@ Which body category was the most and least targeted?
 
 **Dashboard:**
 
-![Image](https://github.com/kleung157/Strength_Training_Personal_Project/blob/3c64229d884f9776ae12ec273c99e1a30745617d/workout_dashboard.png)
+![Image](./images/workout_dashboard.png)
 
 #
 
