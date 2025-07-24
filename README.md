@@ -41,7 +41,7 @@ Analyzing personal raw exercise data from 2023-2024 to discover insights for a f
 
 ## 2. Prepare
 
-[Document](https://github.com/kleung157/Strength_Training_Personal_Project/blob/392570e165209392cfd02c263184ef5fcc5a1251/documents/workouts_data_preparation_processing)
+[Document](./documents/workouts_data_preparation_processing.sql)
 
 (See document for details.)
 
@@ -49,7 +49,7 @@ Analyzing personal raw exercise data from 2023-2024 to discover insights for a f
 
 ## 3. Process
 
-[Document](https://github.com/kleung157/Strength_Training_Personal_Project/blob/392570e165209392cfd02c263184ef5fcc5a1251/documents/workouts_data_preparation_processing)
+[Document](./documents/workouts_data_preparation_processing.sql)
 
 (See document for details.)
 
@@ -57,7 +57,7 @@ Analyzing personal raw exercise data from 2023-2024 to discover insights for a f
 
 ## 4. Analyze
 
-[Document](https://github.com/kleung157/Strength_Training_Personal_Project/blob/392570e165209392cfd02c263184ef5fcc5a1251/documents/workouts_data_analysis)
+[Document](./documents/workouts_data_analysis.sql)
 
 (See document for details.)
 
